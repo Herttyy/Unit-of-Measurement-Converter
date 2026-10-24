@@ -41,8 +41,7 @@ I built this project to practise Python fundamentals, including conditional stat
 2. Open the .ipynb file using Jupyter Notebook, JupyterLab, or Visual Studio Code with the Jupyter extension installed.
 3. Run the notebook cells in order.
 4. Enter the measurement value and units when prompted.
-
-View the converted measurement in the output.
+5. View the converted measurement in the output.
    
 
 ## Example 

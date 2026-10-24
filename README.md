@@ -43,9 +43,9 @@ I built this project to practise Python fundamentals, including conditional stat
 4. Enter the measurement value and units when prompted.
 
 View the converted measurement in the output.
-   ```
+   
 
-## Example Usage
+## Example 
 
 ```
 Enter Starting Unit of Measurement (inches, feet, yards): inches
